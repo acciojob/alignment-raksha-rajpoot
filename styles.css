@@ -9,21 +9,21 @@
 	table-specing: 1px;
 	cell-padding: 1px;
 }
-table{
+#table-1{
 	border: 1px solid black;
 	table-specing: 1px;
 	cell-padding: 1px;
 }
 
-.r1{
+#t11{
 	text-align:left;
 	
 }
 
-.r2{
+#t12{
 	text-align:center;
 }
-.r3{
+#t13{
 	text-align:right;
 }
 #table-2{
