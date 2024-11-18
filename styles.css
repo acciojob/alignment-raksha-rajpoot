@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+table{
+	border:1px solid black;
+	table-specing: 1px;
+	cell-padding: 1px;
+}
 .r1{
 	text-align:left;
 }
@@ -7,4 +12,23 @@
 }
 .r3{
 	text-align:right;
+}
+#table-2{
+	color:white;
+	
+}
+.r4{
+	
+}
+.r5{
+	background-color:green;
+	color:green;
+	
+}
+.r7{
+	background-color:blue;
+	color:blue;
+cell:t-image{
+	text-align:center;
+	
 }
