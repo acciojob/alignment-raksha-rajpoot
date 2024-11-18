@@ -9,13 +9,12 @@
 	table-specing: 1px;
 	cell-padding: 1px;
 }
-#table-1{
+
+.t11{
+	text-align:left;
 	border: 1px solid black;
 	table-specing: 1px;
 	cell-padding: 1px;
-}
-.t11{
-	text-align:left;
 }
 .r2{
 	text-align:center;
