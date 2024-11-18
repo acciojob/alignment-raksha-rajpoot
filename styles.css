@@ -1,6 +1,16 @@
 /*  your css code here. If applicable */
-table{
-	border:1px solid black;
+#table-2{
+	border: 1px solid black;
+	table-specing: 1px;
+	cell-padding: 1px;
+}
+#table-3{
+	border: 1px solid black;
+	table-specing: 1px;
+	cell-padding: 1px;
+}
+#table-1{
+	border: 1px solid black;
 	table-specing: 1px;
 	cell-padding: 1px;
 }
