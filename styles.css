@@ -1,61 +1,12 @@
-/*  your css code here. If applicable */
-/* #table-2{
-	border: 1px solid black;
-	table-specing: 1px;
-	cell-padding: 1px;
-}
-#table-3{
-	border: 1px solid black;
-	table-specing: 1px;
-	cell-padding: 1px;
-}
-#table-1{
-	border: 1px solid black;
-	table-specing: 1px;
-	cell-padding: 1px;
-}
 
-#t11{
-	text-align:left;
-	
+.table,
+td {
+    border: 1px solid black;
+    border-spacing: 1px;
+    padding: 1px;
 }
-
-#t12{
-	text-align:center;
-}
-#t13{
-	text-align:right;
-}
-#table-2{
-	color:white;
-	
-}
-.r4{
-	
-}
-.r5{
-	background-color:green;
-	color:green;
-	
-}
-.r7{
-	background-color:blue;
-	color:blue;
-cell:t-image{
-	text-align:center;
-	
-} */
-#table-1{
-	border: 1px solid black;
-	border-spacing: 1px;
-	border-cell-padding: 1px;
-}
-#t11{
-	text-align: left;
-}
-#t12{
-	text-align: center;
-}
-#t13{
-	text-align: right;
+ 
+td {
+    width: 100px;
+    height: 50px;
 }
